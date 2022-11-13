@@ -1,0 +1,42 @@
+/* add your CSS here */
+.whole_card{
+    width: 310px;
+    border: #d4d4d4 solid 1px;
+    padding: 0px 10px 15px;
+    background-color: #c2a272;
+    box-shadow: 10px 10px 5px #d9d9d9;
+}
+
+.animal_name{
+    Font: bold 25px "Times New Roman", serif;
+    padding: 0px 5px;
+}
+
+img{
+    width: 300px;
+    padding: 0px 5px 10px;
+}
+
+.card_text{
+    border: #d4d4d4 solid 1px;
+    padding: 10px;
+    width: 283px;
+}
+
+.fun_fact{
+    font: italic 16px "Times New Roman", serif;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    font: 16px "Times New Roman", serif;
+}
+
+span{
+    Font: bold 16px "Times New Roman", serif;
+}
+
+.description{
+    font: 16px "Times New Roman", serif;
+}
